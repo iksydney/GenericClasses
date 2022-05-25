@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\bin\Debug\net6.0\WeekTwoTask.exe
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\bin\Debug\net6.0\WeekTwoTask.deps.json
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\bin\Debug\net6.0\WeekTwoTask.runtimeconfig.json
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\bin\Debug\net6.0\WeekTwoTask.dll
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\bin\Debug\net6.0\WeekTwoTask.pdb
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\obj\Debug\net6.0\WeekTwoTask.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\obj\Debug\net6.0\WeekTwoTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\obj\Debug\net6.0\WeekTwoTask.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\obj\Debug\net6.0\WeekTwoTask.AssemblyInfo.cs
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\obj\Debug\net6.0\WeekTwoTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\obj\Debug\net6.0\WeekTwoTask.dll
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\obj\Debug\net6.0\refint\WeekTwoTask.dll
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\obj\Debug\net6.0\WeekTwoTask.pdb
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\obj\Debug\net6.0\WeekTwoTask.genruntimeconfig.cache
+C:\Users\hp\source\repos\WeekTwoTask\WeekTwoTask\obj\Debug\net6.0\ref\WeekTwoTask.dll
